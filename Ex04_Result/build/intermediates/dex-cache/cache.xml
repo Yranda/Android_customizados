@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miranda\Desktop\exemplo4\Ex04_Result\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78dcd46d86c8e4c3433426e9346aa5e8625e831e">
+        <dex dex="C:\Users\Miranda\Desktop\exemplo4\Ex04_Result\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7c8c67c8dc645c3e759970f15bcb02b680fdca2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miranda\Desktop\exemplo4\Ex04_Result\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Miranda\Desktop\exemplo4\Ex04_Result\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_502982198c6d0190e9a3ff3b63d6d5f232c9ba4e\classes.dex" />
+    </item>
+
+</items>
